@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 ruby '2.3.0'
+gem 'rails_layout'
 gem 'rails', '4.2.6'
 # Rails defaults
 gem 'sqlite3'
